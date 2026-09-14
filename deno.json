@@ -1,8 +1,8 @@
 {
   "lock": {
-    "frozen": true
+    "frozen": false
   },
-  "nodeModulesDir": true,
+  "nodeModulesDir": "auto",
   "license": "MIT",
   "compilerOptions": {
     "lib": ["esnext"]
@@ -25,3 +25,4 @@
     "undici": "npm:undici@^7.8.0"
   }
 }
+
