@@ -26,3 +26,4 @@ steps:
 
 images:
   - "gcr.io/$PROJECT_ID/dark-fantasy-tnails:$COMMIT_SHA"
+
